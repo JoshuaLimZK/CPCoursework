@@ -1,2 +1,2 @@
-# CPCoursework
-Starting on week 2, Procrastination at its finest
+# Free Homework Manager 2022
+Starting on week ~~2~~ 3, Procrastination at its finest
